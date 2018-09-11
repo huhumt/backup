@@ -9,6 +9,7 @@ def http_get(url):
     request website content using http get method
     """
 
-    fd = request.urlopen(url)
+    fd=request.urlopen(url)
 
     return fd.read().decode('utf-8')
+    # return fd.read()

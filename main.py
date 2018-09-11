@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from os_proc import create_directory, change_directory
 from backup import backup_website
-
+import json
 import sys
 
 def parse_argv():
@@ -20,10 +21,14 @@ def main():
     """
 
     argv_list = parse_argv()
-    '''If argv_list is empty, no target website to backup'''
+    '''If argv_list is empty, use json file to do backup'''
     if not argv_list:
-        print("Usage: python3 main.py target1 target2 ...")
-        return
+        fd = open('target_website.json', 'r', encoding="utf-8")
+        config_data = json.load(fd)
+        fd.close()
+
+        for key in config_data:
+            argv_list.append(config_data[key])
 
     for target_website in argv_list:
         backup_website(target_website)

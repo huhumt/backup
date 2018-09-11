@@ -7,13 +7,12 @@ import shutil
 def create_directory(directory):
 
     """
-    Create a new direcotry if no exist
+    Create a new directory if no exist
     """
 
     if os.path.exists(directory):
         print("%s is already exist" %(directory))
     else:
-        print("make directory %s" %(directory))
         os.makedirs(directory)
 
 def change_directory(directory):
@@ -23,28 +22,30 @@ def change_directory(directory):
     """
 
     if os.path.exists(directory):
-        print("change to %s" %(directory))
         os.chdir(directory)
     else:
         print("%s is not exist" %(directory))
 
-def delete_directory(directory):
+def remove_directory(directory):
 
     """
-    Delete directory
+    Remove directory recursively
     """
 
-    #  if os.path.exists(directory):
-    #      print("delete directory %s" %(directory))
-    shutil.rmtree(directory, ignore_errors=True)
-    #  else:
-    #      print("%s is not exist" %(directory))
-
+    if os.path.exists(directory):
+        shutil.rmtree(directory)
+    else:
+        print("%s is not exist" %(directory))
 
 if __name__ == "__main__":
 
+    """
+    This is for test
+    """
+
     create_directory("./test_dir")
     change_directory("./test_dir")
-    delete_directory('test_dir')
-    delete_directory('test_file.txt')
+    create_directory("./test_dir")
+    change_directory("../")
+    remove_directory("./test_dir")
     change_directory("./test_dir")
