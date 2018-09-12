@@ -30,8 +30,11 @@ def parse_string(full_str):
             elif '<a href=' in line and '</a>' in line:
                 key = re.findall(r'">(.*?)</a>', line)[0]
                 value = re.findall(r'<a href="(.*?)">', line)[0]
-                if value != "#":
-                    href_dict[key] = value
+                if "http" in value:
+                    body_text_list.append(key + '--->' + value)
+                else:
+                    if value != "#":
+                        href_dict[key] = value
 
     return title, body_text_list, href_dict
 

@@ -11,7 +11,7 @@ def create_directory(directory):
     """
 
     if os.path.exists(directory):
-        print("%s is already exist" %(directory))
+        print("%s already exists" % (directory))
     else:
         os.makedirs(directory)
 
@@ -24,7 +24,7 @@ def change_directory(directory):
     if os.path.exists(directory):
         os.chdir(directory)
     else:
-        print("%s is not exist" %(directory))
+        print("%s does not exist" % (directory))
 
 def remove_directory(directory):
 
@@ -35,7 +35,7 @@ def remove_directory(directory):
     if os.path.exists(directory):
         shutil.rmtree(directory)
     else:
-        print("%s is not exist" %(directory))
+        print("%s does not exist" % (directory))
 
 if __name__ == "__main__":
 
@@ -43,6 +43,7 @@ if __name__ == "__main__":
     This is for test
     """
 
+    create_directory("./test_dir")
     create_directory("./test_dir")
     change_directory("./test_dir")
     create_directory("./test_dir")

@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 from urllib import request
+import time
 
 def http_get(url):
 
@@ -9,7 +10,24 @@ def http_get(url):
     request website content using http get method
     """
 
-    fd=request.urlopen(url)
+    content = ""
+    for i in range(10):
+        try:
+            content =request.urlopen(url).read().decode('utf-8')
+        except Exception as e:
+            content = ""
+            time.sleep(1)
+        else:
+            time.sleep(0.5)
+            break
 
-    return fd.read().decode('utf-8')
-    # return fd.read()
+    return content
+
+if __name__ == "__main__":
+
+    """
+    This is for test
+    """
+
+    content = http_get("https://blog.csdn.net/imnisen1992/article/details/53165112")
+    print(content)
