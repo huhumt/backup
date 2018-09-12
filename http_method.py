@@ -31,3 +31,5 @@ if __name__ == "__main__":
 
     content = http_get("https://blog.csdn.net/imnisen1992/article/details/53165112")
     print(content)
+    content = http_get("https://blog.csdn.net/jcjc918")
+    print(content)

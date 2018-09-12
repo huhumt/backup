@@ -1,6 +1,0 @@
-<a href="http://v.youku.com/v_show/id_XNjc1MDMzNDg4.html"><img src="http://www.yinwang.org/images/dijkstra-interview.jpg" width="70%" /></a>
-（也可以访问 <a href="http://www.youtube.com/watch?v=RCCigccBzIU">YouTube</a> 或者从源地址下载 <a href="http://www.cs.utexas.edu/users/EWD/video-audio/NoorderlichtVideo.html">MPEG1</a>，300M）
-之前在微博上推荐了一个对 Dijkstra 的采访视频，看了两遍之后觉得实在很好，所以再正式推荐一下。大部分人可能都知道他对图论算法和操作系统的贡献，而其实 Dijkstra 在程序语言上的造诣也很深厚。我们常用的程序语言里面司通见惯的“递归函数”，其实当年就是 Dijsktra 和另一个人不顾委员会里众人的反对和怀疑，坚持要放进 Algol 60，所以后来才进入了 Pascal，C，Java 这样的语言的。那个时候 John McCarthy 缺席，不然的话就会有三个人支持了。
-现在看来，任何一个语言里面没有递归函数都是不可思议的事情，然而在1950-60年代的时候，居然很少有人知道它有什么用！所以你就发现，所谓的“主流”和“大多数人”一直都是比较愚蠢的。现在，同样的故事发生在 lambda 身上。多年以后，没有 lambda 的语言将是不可接受的。
-在这里只摘录他提到的几个要点。某些观点也许不是最好的办法，但我确信其中有非常值得学习的地方。
-pleasingly ingenious and simple--->http://www.oxforddictionaries.com/us/definition/american_english/elegant?q=elegant

@@ -3,7 +3,7 @@
 
 import re
 
-def parse_string(full_str):
+def parse_string(full_str, author_domain):
 
     """
     parse full_str with begin_str and end_str
@@ -17,24 +17,34 @@ def parse_string(full_str):
     href_dict = {}
     for line in full_str.splitlines():
         if search_enable_flag == 0:
-            if '<head>' in line or '<body>' in line:
+            if '<head' in line or '<body' in line:
                 search_enable_flag = 1
         else:
             if '</head>' in line or '</body>' in line:
                 search_enable_flag = 0
             elif '<title>' in line and '</title>' in line:
                 title = re.findall(r'<title>(.*?)</title>', line)[0]
+                title = title.replace("/", "\\/")
             elif '<p>' in line and '</p>' in line:
                 text_line = re.findall(r'<p>(.*?)</p>', line)[0]
                 body_text_list.append(text_line)
-            elif '<a href=' in line and '</a>' in line:
-                key = re.findall(r'">(.*?)</a>', line)[0]
-                value = re.findall(r'<a href="(.*?)">', line)[0]
-                if "http" in value:
-                    body_text_list.append(key + '--->' + value)
+            elif '<a href="' in line:
+                value = re.findall(r'<a href="(.*?)"', line)[0]
+                key = value.split(author_domain, 1)[-1]
+                if not key:
+                    key = "HomePage"
                 else:
-                    if value != "#":
-                        href_dict[key] = value
+                    key = "_".join(key.split("/"))
+
+                if key != "HomePage":
+                    if "http" not in value and '/' in value and '?' not in value and '#' not in value:
+                        if value != "#":
+                            href_dict[key] = value
+                    elif (author_domain + '/') in value and '?' not in value and '#' not in value:
+                        if value != "#":
+                            href_dict[key] = value.split(author_domain, 1)[1]
+                    else:
+                        body_text_list.append(key + '--->' + value)
 
     return title, body_text_list, href_dict
 
