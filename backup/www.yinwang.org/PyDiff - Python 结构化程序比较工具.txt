@@ -1,0 +1,2 @@
+http:__www.python.org_dev_peps_pep-0008_--->http://www.python.org/dev/peps/pep-0008/
+http:__github.com_yinwang0_pydiff--->http://github.com/yinwang0/pydiff

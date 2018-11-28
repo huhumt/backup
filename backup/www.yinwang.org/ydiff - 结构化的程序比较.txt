@@ -1,0 +1,4 @@
+https:__github.com_yinwang0_ydiff--->https://github.com/yinwang0/ydiff
+http:__www.edg.com--->http://www.edg.com
+http:__www.haskell.org_haskellwiki_Parsec--->http://www.haskell.org/haskellwiki/Parsec
+https:__developers.google.com_v8--->https://developers.google.com/v8

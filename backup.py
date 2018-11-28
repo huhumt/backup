@@ -15,12 +15,13 @@ def backup_website(target_website, author_domain, http_type):
 
     if text_list:
         directory = './backup/' + author_domain
-        filename = directory + '/' + title + ".txt"
+        filename = (directory + '/' + title + ".txt").encode()
         print("Save %s ---------------------------> %s" % (target_website, filename))
 
-        fd = open(filename, 'w')
+        fd = open(filename, 'wb')
         for text in text_list:
-            fd.write(text + '\n')
+            write_bin_text = (text + '\n').encode()
+            fd.write(write_bin_text)
         fd.close()
 
     for key in href_list:
