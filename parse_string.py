@@ -14,7 +14,7 @@ def parse_string(full_str, author_domain):
     search_enable_flag = 0
     title = ""
     body_text_list = []
-    href_dict = {}
+    href_list = []
     for line in full_str.splitlines():
         if search_enable_flag == 0:
             if '<head' in line or '<body' in line:
@@ -39,14 +39,14 @@ def parse_string(full_str, author_domain):
                 if key != "HomePage":
                     if "http" not in value and '/' in value and '?' not in value and '#' not in value:
                         if value != "#":
-                            href_dict[key] = value
+                            href_list.append(value)
                     elif (author_domain + '/') in value and '?' not in value and '#' not in value:
                         if value != "#":
-                            href_dict[key] = value.split(author_domain, 1)[1]
+                            href_list.append(value.split(author_domain, 1)[1])
                     else:
                         body_text_list.append(key + '--->' + value)
 
-    return title, body_text_list, href_dict
+    return title, body_text_list, href_list
 
 if __name__ == "__main__":
 
