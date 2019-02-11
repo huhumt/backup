@@ -13,6 +13,7 @@ def backup_website(target_website, author_domain, http_type):
 
     response=http_get(target_website)
     title, text_list, href_list = parse_string(response, author_domain)
+    # title, text_list, href_list = parse_string_bs4(response)
 
     if text_list:
         directory = './backup/' + author_domain
