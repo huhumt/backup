@@ -3,3 +3,5 @@
 <img src="http://www.yinwang.org/images/alipay.jpg" width="200" />
 微信：由于微信付款经常出问题，暂时停止使用。
 PayPal：请点击[<a href="http://paypal.me/yinwang0/5">付款链接</a>]
+BitCoin：1K3eF2YK3B4NvV9UddsBstXjaKYM93KjYZ
+<img src="http://www.yinwang.org/images/bitcoin-address.jpg" width="240" />
