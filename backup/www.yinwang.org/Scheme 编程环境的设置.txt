@@ -18,11 +18,11 @@ ParEdit mode 可以在这里下载：
 我的配置会在加载 Scheme 文件的时候自动载入 ParEdit mode，并且把 F5 键绑定到“执行前面的S表达式”。这样设置的目的是，我只要把光标移动到一个S表达式之后，然后用一根手指头按 F5，就可以执行程序。够懒吧。
 ParEdit mode 是一个很特殊的模式。它起作用的时候，你不能直接修改括号。这样所有的括号都保持完整的匹配，不可能出现语法错误。但是这样有一个问题，如果你要把一块代码放进另一块代码，或者从里面拿出来，就不是很方便了。
 为此，ParEdit mode 提供了几个非常高效的编辑方式。我平时只使用两个：
-<code class="highlighter-rouge">C-right</code>: 也就是按住 Ctrl 再按右箭头。它的作用是让光标右边的括号，“吞掉”下一个S表达式。
-<code class="highlighter-rouge">M-r</code>: 去掉外层代码。
+<code class="language-plaintext highlighter-rouge">C-right</code>: 也就是按住 Ctrl 再按右箭头。它的作用是让光标右边的括号，“吞掉”下一个S表达式。
+<code class="language-plaintext highlighter-rouge">M-r</code>: 去掉外层代码。
 这在你需要去掉外层的 let 等结构的时候非常有用。比如，如果你的代码看起来是这样：
-当你把光标放在 <code class="highlighter-rouge">(* x 2)</code> 的最左边，然后按  <code class="highlighter-rouge">M-r</code>，结果就变成了
-也就是把外面的 <code class="highlighter-rouge">(let ([x 10]) ...)</code> 给“掀掉”了。
+当你把光标放在 <code class="language-plaintext highlighter-rouge">(* x 2)</code> 的最左边，然后按  <code class="language-plaintext highlighter-rouge">M-r</code>，结果就变成了
+也就是把外面的 <code class="language-plaintext highlighter-rouge">(let ([x 10]) ...)</code> 给“掀掉”了。
 其它的一些按键虽然也有用，不过我觉得这两个是最有用的，甚至不可缺少的。有些其他的自动匹配括号的模式，没有提供这种按键，所以用起来很别扭。
 很多人看见 Lisp 就怕了，就是因为它看起来括号太多。可是这样的语法，却是有很大的好处的（参考这篇博文《谈语法》）。如果你真的觉得括号碍眼，你可以稍微调整一下括号的颜色，比如淡灰色。这样括号看起来就没有那么显眼了。
 你只需要下载这个 el，放到你的 .emacs.d:
