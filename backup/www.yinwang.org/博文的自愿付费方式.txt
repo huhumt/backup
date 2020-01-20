@@ -1,6 +1,9 @@
-喜欢我的文章的人，可以自愿付费购买。你可以使用以下方式付款。
-支付宝：
-<img src="http://www.yinwang.org/images/alipay.jpg" width="200" />
+喜欢我的文章的人，可以自愿付费赞助。你的支持将会帮助我的博客保持独立和自由，不受控制的发表真实的见解。
+你可以使用以下方式付款。为了防止有人滥用这些付款方式，我给它们设置了固定的金额。
+支付宝（32 元）：
+<img src="http://www.yinwang.org/images/alipay-32.jpg" width="200" />
+支付宝（1024 元）：
+<img src="http://www.yinwang.org/images/alipay-1024.jpg" width="200" />
 微信：由于微信付款经常出问题，暂时停止使用。
 PayPal：请点击[<a href="http://paypal.me/yinwang0/5">付款链接</a>]
 BitCoin：1K3eF2YK3B4NvV9UddsBstXjaKYM93KjYZ
