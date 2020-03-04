@@ -90,7 +90,7 @@
 改进后的代码，在name里面含有“bad”的时候，直接用<code class="language-plaintext highlighter-rouge">return true</code>返回，而不是对result变量赋值，break出去，最后才返回。如果循环结束了还没有return，那就返回false，表示没有找到这样的名字。使用return来代替break，这样break语句和result这个变量，都一并被消除掉了。
 我曾经见过很多其他使用continue和break的例子，几乎无一例外的可以被消除掉，变换后的代码变得清晰很多。我的经验是，99%的break和continue，都可以通过替换成return语句，或者翻转if条件的方式来消除掉。剩下的1%含有复杂的逻辑，但也可以通过提取一个帮助函数来消除掉。修改之后的代码变得容易理解，容易确保正确。
 我写代码有一条重要的原则：如果有更加直接，更加清晰的写法，就选择它，即使它看起来更长，更笨，也一样选择它。比如，Unix命令行有一种“巧妙”的写法是这样：
-由于Shell语言的逻辑操作<code class="language-plaintext highlighter-rouge">a &amp;&amp; b</code>具有“短路”的特性，如果<code class="language-plaintext highlighter-rouge">a</code>等于false，那么<code class="language-plaintext highlighter-rouge">b</code>就没必要执行了。这就是为什么当command1成功，才会执行command2，当command2成功，才会执行command3。同样，
+由于 Shell 语言的逻辑操作<code class="language-plaintext highlighter-rouge">a &amp;&amp; b</code>具有“短路”的特性，如果<code class="language-plaintext highlighter-rouge">a</code>等于false，那么<code class="language-plaintext highlighter-rouge">b</code>就没必要执行了。这就是为什么当 command1 成功，才会执行 command2，当 command2 成功，才会执行 command3。同样，
 操作符<code class="language-plaintext highlighter-rouge">||</code>也有类似的特性。上面这个命令行，如果command1成功，那么command2和command3都不会被执行。如果command1失败，command2成功，那么command3就不会被执行。
 这比起用if语句来判断失败，似乎更加巧妙和简洁，所以有人就借鉴了这种方式，在程序的代码里也使用这种方式。比如他们可能会写这样的代码：
 你看得出来这代码是想干什么吗？action2和action3什么条件下执行，什么条件下不执行？也许稍微想一下，你知道它在干什么：“如果action1失败了，执行action2，如果action2成功了，执行action3”。然而那种语义，并不是直接的“映射”在这代码上面的。比如“失败”这个词，对应了代码里的哪一个字呢？你找不出来，因为它包含在了<code class="language-plaintext highlighter-rouge">||</code>的语义里面，你需要知道<code class="language-plaintext highlighter-rouge">||</code>的短路特性，以及逻辑或的语义才能知道这里面在说“如果action1失败……”。每一次看到这行代码，你都需要思考一下，这样积累起来的负荷，就会让人很累。
