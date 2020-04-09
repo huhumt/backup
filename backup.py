@@ -3,7 +3,7 @@
 
 from http_method import http_get
 from parse_string import parse_string
-from parse_string_bs4 import parse_string_bs4
+#from parse_string_bs4 import parse_string_bs4
 
 def backup_website(target_website, author_domain, http_type):
 

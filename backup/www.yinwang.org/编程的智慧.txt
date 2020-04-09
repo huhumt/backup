@@ -171,4 +171,6 @@ https:__docs.oracle.com_javase_8_docs_api_java_util_function_Consumer.html--->ht
 过度地关心“测试”，也会引起过度工程。有些人为了测试，把本来很简单的代码改成“方便测试”的形式，结果引入很多复杂性，以至于本来一下就能写对的代码，最后复杂不堪，出现很多bug。
 世界上有两种“没有bug”的代码。一种是“没有明显的bug的代码”，另一种是“明显没有bug的代码”。第一种情况，由于代码复杂不堪，加上很多测试，各种coverage，貌似测试都通过了，所以就认为代码是正确的。第二种情况，由于代码简单直接，就算没写很多测试，你一眼看去就知道它不可能有bug。你喜欢哪一种“没有bug”的代码呢？
 根据这些，我总结出来的防止过度工程的原则如下：
-创造这样的精品文章需要很多的精力和咖啡 ;) 如果你喜欢这篇文章，请付款支持。建议金额$5美元或者30人民币。付款方式请参考<a href="http://www.yinwang.org/blog-cn/2016/04/13/pay-blog">这里</a>。
+<strong>完。</strong>
+（这不是一篇免费的文章，如果你想把这些信息留在脑子里，请去这里<a href="http://www.yinwang.org/blog-cn/2016/04/13/pay-blog">付费</a>。不然就请看这里：
+<img src="https://www.yinwang.org/images/memory-eraser.jpg" width="40%" />
