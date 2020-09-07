@@ -26,6 +26,11 @@ def backup_website(target_website, author_domain, http_type):
             fd.write(write_bin_text)
         fd.close()
 
+        html_filename = (directory + '/' + title + ".html").encode()
+        html_fd = open(html_filename, 'wb')
+        html_fd.write(response.encode())
+        html_fd.close()
+
     for href in href_list:
         href = http_type + "://" + author_domain + href
         backup_website(href, author_domain, http_type)
