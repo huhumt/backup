@@ -1,0 +1,677 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" >
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<title>Yin Wang &#8211; 艮曰</title>
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.pubmine.com' />
+<link rel='dns-prefetch' href='//x.bidswitch.net' />
+<link rel='dns-prefetch' href='//static.criteo.net' />
+<link rel='dns-prefetch' href='//ib.adnxs.com' />
+<link rel='dns-prefetch' href='//aax.amazon-adsystem.com' />
+<link rel='dns-prefetch' href='//bidder.criteo.com' />
+<link rel='dns-prefetch' href='//cas.criteo.com' />
+<link rel='dns-prefetch' href='//gum.criteo.com' />
+<link rel='dns-prefetch' href='//ads.pubmatic.com' />
+<link rel='dns-prefetch' href='//gads.pubmatic.com' />
+<link rel='dns-prefetch' href='//tpc.googlesyndication.com' />
+<link rel='dns-prefetch' href='//ad.doubleclick.net' />
+<link rel='dns-prefetch' href='//googleads.g.doubleclick.net' />
+<link rel='dns-prefetch' href='//www.googletagservices.com' />
+<link rel='dns-prefetch' href='//cdn.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.g.switchadhub.com' />
+<link rel='dns-prefetch' href='//delivery.swid.switchadhub.com' />
+<link rel='dns-prefetch' href='//a.teads.tv' />
+<link rel='dns-prefetch' href='//prebid.media.net' />
+<link rel='dns-prefetch' href='//adserver-us.adtech.advertising.com' />
+<link rel='dns-prefetch' href='//fastlane.rubiconproject.com' />
+<link rel='dns-prefetch' href='//prebid-server.rubiconproject.com' />
+<link rel='dns-prefetch' href='//hb-api.omnitagjs.com' />
+<link rel='dns-prefetch' href='//mtrx.go.sonobi.com' />
+<link rel='dns-prefetch' href='//apex.go.sonobi.com' />
+<link rel='dns-prefetch' href='//u.openx.net' />
+<link rel="alternate" type="application/rss+xml" title="艮曰 &raquo; Feed" href="https://yinwang1.wordpress.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="艮曰 &raquo; 评论Feed" href="https://yinwang1.wordpress.com/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="艮曰 &raquo; 由Yin Wang发表的文章Feed" href="https://yinwang1.wordpress.com/author/yinwang0/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+			<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s0.wp.com\/wp-content\/mu-plugins\/wpcom-smileys\/twemoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/s1.wp.com\/wp-includes\/js\/wp-emoji-release.min.js?m=1596548281h&ver=5.5-wpcom-48929"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0-1' href='https://s0.wp.com/_static/??-eJydketKQzEMgF/Inng2GNsP8Vl6iTWzN5qU0bdfz9R52ERFCqVJvy+hDZyKsjkJJoHYVAnNU2I4FZuj4kgB+000WeYHWGkmZP8l5uq0Y/AhGx3u2FULSi+USPr1cAd/kr6N0GD146YiHKZ5msE0Cm7pbd9UIFN17cDSA/6hzMViOKIUvei65ybKV3L/LVG1UPL8i27zh7aZxgJHLNec+l5dfdjy+JGPRctCRHSkMWAc2E/a+/CMKRWZ1dgjtajkdYiXWT7Hp3n3OG93++1+czwDzqvGEg==?cssminify=yes' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify {
+	text-align:justify;
+}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--color--black:#000000;--wp--preset--color--cyan-bluish-gray:#abb8c3;--wp--preset--color--white:#ffffff;--wp--preset--color--pale-pink:#f78da7;--wp--preset--color--vivid-red:#cf2e2e;--wp--preset--color--luminous-vivid-orange:#ff6900;--wp--preset--color--luminous-vivid-amber:#fcb900;--wp--preset--color--light-green-cyan:#7bdcb5;--wp--preset--color--vivid-green-cyan:#00d084;--wp--preset--color--pale-cyan-blue:#8ed1fc;--wp--preset--color--vivid-cyan-blue:#0693e3;--wp--preset--color--vivid-purple:#9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple:linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan:linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange:linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red:linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray:linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple:linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux:linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk:linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean:linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass:linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight:linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small:13;--wp--preset--font-size--normal:16;--wp--preset--font-size--medium:20;--wp--preset--font-size--large:36;--wp--preset--font-size--huge:42;}
+</style>
+<link rel='stylesheet' id='all-css-2-1' href='https://s0.wp.com/wp-content/themes/pub/baskerville-2/style.css?m=1576071892h&cssminify=yes' type='text/css' media='all' />
+<link crossorigin="anonymous" rel='stylesheet' id='baskerville-2-fonts-css'  href='https://fonts.googleapis.com/css?family=Roboto+Slab%3A400%2C700%7CRoboto%3A400%2C400italic%2C700%2C700italic%2C300%7CPacifico%3A400&#038;subset=latin%2Clatin-ext' media='all' />
+<link rel='stylesheet' id='all-css-4-1' href='https://s1.wp.com/_static/??-eJyNjMEKwjAQRH/IuLZQqQfxW9K4jbGbbOhuDf69sXhQBPE2j5l5ULJxnBSTgl4wokBeBhisTDjfAhGaFsY6sAWFI67ZvGDrRDbwjyEkB6L3mkt2HL+OcTGZFh+SQAlnjyqAS215CmjIFlCMmaxW+ar5JfDIhthZDZw+wIxkw/zrOuNA7Gv0UFdv+Dyd4rHpDrtm37V9f30AkTx0wQ==?cssminify=yes' type='text/css' media='all' />
+<link rel='stylesheet' id='print-css-5-1' href='https://s2.wp.com/wp-content/mu-plugins/global-print/global-print.css?m=1465851035h&cssminify=yes' type='text/css' media='print' />
+<link rel='stylesheet' id='all-css-6-1' href='https://s0.wp.com/wp-content/mu-plugins/actionbar/actionbar.css?m=1560469195h&cssminify=yes' type='text/css' media='all' />
+<style id='jetpack-global-styles-frontend-style-inline-css'>
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+</style>
+<link rel='stylesheet' id='all-css-8-1' href='https://s0.wp.com/wp-content/themes/h4/global.css?m=1420737423h&cssminify=yes' type='text/css' media='all' />
+<script type='text/javascript' src='https://s2.wp.com/_static/??/wp-includes/js/jquery/jquery.js,/wp-content/js/postmessage.js,/wp-content/js/mobile-useragent-info.js?m=1558356653j'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://yinwang1.wordpress.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://s1.wp.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress.com" />
+
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="profile" />
+<meta property="og:title" content="Yin Wang" />
+<meta property="og:url" content="https://yinwang1.wordpress.com/author/yinwang0/" />
+<meta property="profile:first_name" content="Yin" />
+<meta property="profile:last_name" content="Wang" />
+<meta property="og:site_name" content="艮曰" />
+<meta property="og:image" content="https://secure.gravatar.com/avatar/43ec631d6fda6a1cf42aaf875d784597?s=200&amp;d=identicon&amp;r=g" />
+<meta property="og:locale" content="zh_CN" />
+<meta name="twitter:site" content="@wordpressdotcom" />
+<meta property="fb:app_id" content="249643311490" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="shortcut icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="icon" type="image/x-icon" href="https://s1.wp.com/i/favicon.ico" sizes="16x16 24x24 32x32 48x48" />
+<link rel="apple-touch-icon" href="https://s2.wp.com/i/webclip.png" />
+<link rel='openid.server' href='https://yinwang1.wordpress.com/?openidserver=1' />
+<link rel='openid.delegate' href='https://yinwang1.wordpress.com/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://yinwang1.wordpress.com/osd.xml" title="艮曰" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style type="text/css">
+			.recentcomments a {
+				display: inline !important;
+				padding: 0 !important;
+				margin: 0 !important;
+			}
+
+			table.recentcommentsavatartop img.avatar, table.recentcommentsavatarend img.avatar {
+				border: 0px;
+				margin: 0;
+			}
+
+			table.recentcommentsavatartop a, table.recentcommentsavatarend a {
+				border: 0px !important;
+				background-color: transparent !important;
+			}
+
+			td.recentcommentsavatarend, td.recentcommentsavatartop {
+				padding: 0px 0px 1px 0px;
+				margin: 0px;
+			}
+
+			td.recentcommentstextend {
+				border: none !important;
+				padding: 0px 0px 2px 10px;
+			}
+
+			.rtl td.recentcommentstextend {
+				padding: 0px 10px 2px 0px;
+			}
+
+			td.recentcommentstexttop {
+				border: none;
+				padding: 0px 0px 0px 10px;
+			}
+
+			.rtl td.recentcommentstexttop {
+				padding: 0px 10px 0px 0px;
+			}
+		</style>
+		<meta name="application-name" content="艮曰" /><meta name="msapplication-window" content="width=device-width;height=device-height" /><meta name="msapplication-task" content="name=订阅;action-uri=https://yinwang1.wordpress.com/feed/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=注册免费博客;action-uri=http://wordpress.com/signup/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com 支持;action-uri=http://support.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="msapplication-task" content="name=WordPress.com 论坛;action-uri=http://forums.wordpress.com/;icon-uri=https://s1.wp.com/i/favicon.ico" /><meta name="description" content="阅读 Yin Wang 在 艮曰 上发布的所有文章" />
+		<script type="text/javascript">
+
+			window.doNotSellCallback = function() {
+
+				var linkElements = [
+					'a[href="https://wordpress.com/?ref=footer_blog"]',
+					'a[href="https://wordpress.com/?ref=footer_website"]',
+					'a[href="https://wordpress.com/?ref=vertical_footer"]',
+					'a[href^="https://wordpress.com/?ref=footer_segment_"]',
+				].join(',');
+
+				var dnsLink = document.createElement( 'a' );
+				dnsLink.href = 'https://zh-cn.wordpress.com/advertising-program-optout';
+				dnsLink.classList.add( 'do-not-sell-link' );
+				dnsLink.rel = 'nofollow';
+				dnsLink.style.marginLeft = '0.5em';
+				dnsLink.textContent = '请勿出售我的个人信息';
+
+				var creditLinks = document.querySelectorAll( linkElements );
+
+				if ( 0 === creditLinks.length ) {
+					return false;
+				}
+
+				Array.prototype.forEach.call( creditLinks, function( el ) {
+					el.insertAdjacentElement( 'afterend', dnsLink );
+				});
+
+				return true;
+			};
+
+		</script>
+				<script type="text/javascript">
+		function __ATA_CC() {var v = document.cookie.match('(^|;) ?personalized-ads-consent=([^;]*)(;|$)');return v ? 1 : 0;}
+		var __ATA_PP = { pt: 3, ht: 0, tn: 'baskerville-2', amp: false, siteid: 8982, blogid: 23586156, consent: __ATA_CC() };
+		var __ATA = __ATA || {};
+		__ATA.cmd = __ATA.cmd || [];
+		__ATA.criteo = __ATA.criteo || {};
+		__ATA.criteo.cmd = __ATA.criteo.cmd || [];
+		</script>
+		<script type="text/javascript">
+		(function(){var g=Date.now||function(){return+new Date};function h(a,b){a:{for(var c=a.length,d="string"==typeof a?a.split(""):a,e=0;e<c;e++)if(e in d&&b.call(void 0,d[e],e,a)){b=e;break a}b=-1}return 0>b?null:"string"==typeof a?a.charAt(b):a[b]};function k(a,b,c){c=null!=c?"="+encodeURIComponent(String(c)):"";if(b+=c){c=a.indexOf("#");0>c&&(c=a.length);var d=a.indexOf("?");if(0>d||d>c){d=c;var e=""}else e=a.substring(d+1,c);a=[a.substr(0,d),e,a.substr(c)];c=a[1];a[1]=b?c?c+"&"+b:b:c;a=a[0]+(a[1]?"?"+a[1]:"")+a[2]}return a};var l=0;function m(a,b){var c=document.createElement("script");c.src=a;c.onload=function(){b&&b(void 0)};c.onerror=function(){b&&b("error")};a=document.getElementsByTagName("head");var d;a&&0!==a.length?d=a[0]:d=document.documentElement;d.appendChild(c)}function n(a){var b=void 0===b?document.cookie:b;return(b=h(b.split("; "),function(c){return-1!=c.indexOf(a+"=")}))?b.split("=")[1]:""}function p(a){return"string"==typeof a&&0<a.length}
+		function r(a,b,c){b=void 0===b?"":b;c=void 0===c?".":c;var d=[];Object.keys(a).forEach(function(e){var f=a[e],q=typeof f;"object"==q&&null!=f||"function"==q?d.push(r(f,b+e+c)):null!==f&&void 0!==f&&(e=encodeURIComponent(b+e),d.push(e+"="+encodeURIComponent(f)))});return d.filter(p).join("&")}function t(a,b){a||((window.__ATA||{}).config=b.c,m(b.url))}var u=Math.floor(1E13*Math.random()),v=window.__ATA||{};window.__ATA=v;window.__ATA.cmd=v.cmd||[];v.rid=u;v.createdAt=g();var w=window.__ATA||{},x="s.pubmine.com";
+		w&&w.serverDomain&&(x=w.serverDomain);var y="//"+x+"/conf",z=window.top===window,A=window.__ATA_PP&&window.__ATA_PP.gdpr_applies,B="boolean"===typeof A?Number(A):null,C=window.__ATA_PP||null,D=z?document.referrer?document.referrer:null:null,E=z?window.location.href:document.referrer?document.referrer:null,F,G=n("__ATA_tuuid");F=G?G:null;var H=window.innerWidth+"x"+window.innerHeight,I=n("usprivacy"),J=r({gdpr:B,pp:C,rid:u,src:D,ref:E,tuuid:F,vp:H,us_privacy:I?I:null},"",".");
+		(function(a){var b=void 0===b?"cb":b;l++;var c="callback__"+g().toString(36)+"_"+l.toString(36);a=k(a,b,c);window[c]=function(d){t(void 0,d)};m(a,function(d){d&&t(d)})})(y+"?"+J);}).call(this);
+		</script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-52447-2";
+</script>
+
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-52447-2']);
+	_gaq.push(['_gat._anonymizeIp']);
+	_gaq.push(['_setDomainName', 'wordpress.com']);
+	_gaq.push(['_initData']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+	})();
+</script>
+</head>
+
+<body class="archive author author-yinwang0 author-7004495 custom-background customizer-styles-applied hfeed no-featured-image highlander-enabled highlander-light">
+
+	<a class="screen-reader-text skip-link" href="#content">跳转到内容</a>
+
+	<header class="header section small-padding bg-dark bg-image" style="background-image: url(https://defaultcustomheadersdata.files.wordpress.com/2016/07/beach1.jpg?resize=1440,221);" role="banner">
+
+		<a href="https://yinwang1.wordpress.com/" rel="home">
+			<div class="cover"></div>
+		</a>
+
+		<a href="#search-container" class="screen-reader-text search-toggle">搜索</a>
+		<div class="header-search-block bg-graphite hidden" id="search-container">
+			<form role="search" method="get" class="search-form" action="https://yinwang1.wordpress.com/">
+				<label>
+					<span class="screen-reader-text">搜索：</span>
+					<input type="search" class="search-field" placeholder="搜索&hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="搜索" />
+			</form>		</div> <!-- /header-search-block -->
+
+		<div class="header-inner section-inner">
+
+			
+							<p class="site-title"><a href="https://yinwang1.wordpress.com/" rel="home">艮曰</a></p>
+			
+			
+		</div> <!-- /header-inner -->
+	</header> <!-- /header -->
+
+	<div class="navigation section no-padding bg-dark">
+		<nav id="site-navigation" class="navigation-inner section-inner clear" role="navigation">
+			<button class="nav-toggle fleft" aria-controls="primary-menu" aria-expanded="false">选单</button>
+			<div class="main-navigation">
+				<div id="primary-menu" class="menu"></div>
+			</div>
+
+			<a class="search-toggle search-icon fright" href="#">Open Search</a>
+		</nav> <!-- /navigation-inner -->
+	</div> <!-- /navigation -->
+
+<main class="wrapper section medium-padding clear" role="main">
+	<header class="page-header section-inner">
+		<h1 class="page-title">作者： <span>Yin Wang</span></h1>			</header> <!-- /page-title -->
+
+	<div class="content section-inner" id="content">
+
+		
+			<div class="posts" id="posts">
+
+				<div class="spinner-container">
+					<div id="spinner">
+						<div class="double-bounce1"></div>
+						<div class="double-bounce2"></div>
+					</div>
+				</div>
+
+				
+	<div class="post-container">
+
+	<article id="post-684" class="post-684 post type-post status-publish format-standard hentry category-7606 clear">
+
+		<header class="post-header"><h1 class="post-title entry-title"><a href="https://yinwang1.wordpress.com/2020/10/06/%e7%8e%b0%e4%bb%a3%e4%b8%ad%e6%96%87%e7%9a%84%e5%be%88%e5%a4%9a%e5%8d%95%e8%af%8d%e6%9d%a5%e6%ba%90%e4%ba%8e%e6%97%a5%e8%af%ad%ef%bc%9f/" rel="bookmark">现代中文的很多词来源于日语？</a></h1></header>			<div class="post-content clear">
+				<p>（一）对日语的学习进入需要“重新学习”很多汉字发音和词汇的阶段，然后逐渐发现我们每天在用的很多中文词汇，其实是... <a class="more-link" href="https://yinwang1.wordpress.com/2020/10/06/%e7%8e%b0%e4%bb%a3%e4%b8%ad%e6%96%87%e7%9a%84%e5%be%88%e5%a4%9a%e5%8d%95%e8%af%8d%e6%9d%a5%e6%ba%90%e4%ba%8e%e6%97%a5%e8%af%ad%ef%bc%9f/#more-684">Continue Reading &rarr;</a></p>			</div><!--/.post-content-->
+		
+	
+	<div class="post-meta clear">
+					<time class="updated" datetime="2020-10-06">
+				<a class="post-date" href="https://yinwang1.wordpress.com/2020/10/06/%e7%8e%b0%e4%bb%a3%e4%b8%ad%e6%96%87%e7%9a%84%e5%be%88%e5%a4%9a%e5%8d%95%e8%af%8d%e6%9d%a5%e6%ba%90%e4%ba%8e%e6%97%a5%e8%af%ad%ef%bc%9f/" title="现代中文的很多词来源于日语？">
+					<i class="fa fa-clock-o"></i>十月 6, 2020				</a>
+			</time>
+					</div>
+
+
+	</article> <!-- /post -->
+
+	</div>
+
+	<div class="post-container">
+
+	<article id="post-669" class="post-669 post type-post status-publish format-standard hentry category-7606 clear">
+
+		<header class="post-header"><h1 class="post-title entry-title"><a href="https://yinwang1.wordpress.com/2020/09/29/%e5%af%b9%e6%af%94%e6%98%8e%e6%b2%bb%e7%bb%b4%e6%96%b0%e7%9a%84%e6%97%a5%e6%9c%ac%e5%92%8c%e4%bb%8a%e5%a4%a9%e7%9a%84%e4%b8%ad%e5%9b%bd/" rel="bookmark">对比明治维新的日本和今天的中国</a></h1></header>			<div class="post-content clear">
+				<p>对《简明日本史》的阅读进入到明治维新阶段。我发现明治维新的一些做法，其实就是我希望当今的中国效仿的。我现在摘抄... <a class="more-link" href="https://yinwang1.wordpress.com/2020/09/29/%e5%af%b9%e6%af%94%e6%98%8e%e6%b2%bb%e7%bb%b4%e6%96%b0%e7%9a%84%e6%97%a5%e6%9c%ac%e5%92%8c%e4%bb%8a%e5%a4%a9%e7%9a%84%e4%b8%ad%e5%9b%bd/#more-669">Continue Reading &rarr;</a></p>			</div><!--/.post-content-->
+		
+	
+	<div class="post-meta clear">
+					<time class="updated" datetime="2020-09-29">
+				<a class="post-date" href="https://yinwang1.wordpress.com/2020/09/29/%e5%af%b9%e6%af%94%e6%98%8e%e6%b2%bb%e7%bb%b4%e6%96%b0%e7%9a%84%e6%97%a5%e6%9c%ac%e5%92%8c%e4%bb%8a%e5%a4%a9%e7%9a%84%e4%b8%ad%e5%9b%bd/" title="对比明治维新的日本和今天的中国">
+					<i class="fa fa-clock-o"></i>九月 29, 2020				</a>
+			</time>
+					</div>
+
+
+	</article> <!-- /post -->
+
+	</div>
+
+	<div class="post-container">
+
+	<article id="post-668" class="post-668 post type-post status-publish format-standard hentry category-7606 clear has-post-thumbnail fallback-thumbnail">
+
+		<header class="post-header"><h1 class="post-title entry-title"><a href="https://yinwang1.wordpress.com/2020/09/29/%e5%af%b9%e6%af%94%e4%b8%ad%e5%9b%bd%e5%92%8c%e6%97%a5%e6%9c%ac%e7%9a%84%e5%8e%86%e5%8f%b2/" rel="bookmark">对比中国和日本的历史</a></h1></header>			<div class="featured-media">
+									<a href="https://yinwang1.wordpress.com/2020/09/29/%e5%af%b9%e6%af%94%e4%b8%ad%e5%9b%bd%e5%92%8c%e6%97%a5%e6%9c%ac%e7%9a%84%e5%8e%86%e5%8f%b2/" rel="bookmark" title="对比中国和日本的历史">
+						<img src="https://yinwang1.files.wordpress.com/2020/09/album_temp_1601205394.jpg?w=600&#038;h=9999" title="对比中国和日本的历史" class="attachment-baskerville-2-post-thumbnail wp-post-image" />					</a>
+							</div> <!-- /featured-media -->
+					<div class="post-content clear">
+				<p>最近几天的阅读，包括了柏杨的《中国人史纲》和一本《简明日本史》。通过对比，逐步地探寻中国落后的根源。推荐这两本... <a class="more-link" href="https://yinwang1.wordpress.com/2020/09/29/%e5%af%b9%e6%af%94%e4%b8%ad%e5%9b%bd%e5%92%8c%e6%97%a5%e6%9c%ac%e7%9a%84%e5%8e%86%e5%8f%b2/#more-668">Continue Reading &rarr;</a></p>			</div><!--/.post-content-->
+		
+	
+	<div class="post-meta clear">
+					<time class="updated" datetime="2020-09-29">
+				<a class="post-date" href="https://yinwang1.wordpress.com/2020/09/29/%e5%af%b9%e6%af%94%e4%b8%ad%e5%9b%bd%e5%92%8c%e6%97%a5%e6%9c%ac%e7%9a%84%e5%8e%86%e5%8f%b2/" title="对比中国和日本的历史">
+					<i class="fa fa-clock-o"></i>九月 29, 2020				</a>
+			</time>
+					</div>
+
+
+	</article> <!-- /post -->
+
+	</div>
+
+	<div class="post-container">
+
+	<article id="post-653" class="post-653 post type-post status-publish format-standard hentry category-7606 clear">
+
+		<header class="post-header"><h1 class="post-title entry-title"><a href="https://yinwang1.wordpress.com/2020/09/19/%e5%a9%9a%e5%a7%bb%e8%a7%82%e5%bf%b5%e6%98%af%e7%97%85%e6%af%92/" rel="bookmark">婚姻观念是病毒</a></h1></header>			<div class="post-content clear">
+				<p>曾经说过一些关于婚姻的话题，有时候也不是很相信自己。但有了更多经验，对中国文化进行分析，看见身边人的遭遇，他们... <a class="more-link" href="https://yinwang1.wordpress.com/2020/09/19/%e5%a9%9a%e5%a7%bb%e8%a7%82%e5%bf%b5%e6%98%af%e7%97%85%e6%af%92/#more-653">Continue Reading &rarr;</a></p>			</div><!--/.post-content-->
+		
+	
+	<div class="post-meta clear">
+					<time class="updated" datetime="2020-09-19">
+				<a class="post-date" href="https://yinwang1.wordpress.com/2020/09/19/%e5%a9%9a%e5%a7%bb%e8%a7%82%e5%bf%b5%e6%98%af%e7%97%85%e6%af%92/" title="婚姻观念是病毒">
+					<i class="fa fa-clock-o"></i>九月 19, 2020				</a>
+			</time>
+					</div>
+
+
+	</article> <!-- /post -->
+
+	</div>
+
+	<div class="post-container">
+
+	<article id="post-646" class="post-646 post type-post status-publish format-standard hentry category-7606 clear">
+
+		<header class="post-header"><h1 class="post-title entry-title"><a href="https://yinwang1.wordpress.com/2020/09/17/%e5%a4%96%e5%8d%96%e7%9a%84%e9%a3%9f%e6%9d%90%e8%b4%a8%e9%87%8f/" rel="bookmark">外卖的食材质量</a></h1></header>			<div class="post-content clear">
+				<p>今天想科普一下外卖的食材质量问题。昨天谈到外卖送货电动车引起的交通混乱，其实我已经好久没有点过外卖了，所以这混... <a class="more-link" href="https://yinwang1.wordpress.com/2020/09/17/%e5%a4%96%e5%8d%96%e7%9a%84%e9%a3%9f%e6%9d%90%e8%b4%a8%e9%87%8f/#more-646">Continue Reading &rarr;</a></p>			</div><!--/.post-content-->
+		
+	
+	<div class="post-meta clear">
+					<time class="updated" datetime="2020-09-17">
+				<a class="post-date" href="https://yinwang1.wordpress.com/2020/09/17/%e5%a4%96%e5%8d%96%e7%9a%84%e9%a3%9f%e6%9d%90%e8%b4%a8%e9%87%8f/" title="外卖的食材质量">
+					<i class="fa fa-clock-o"></i>九月 17, 2020				</a>
+			</time>
+					</div>
+
+
+	</article> <!-- /post -->
+
+	</div>
+			</div> <!-- /posts -->
+			
+	<nav class="navigation posts-navigation" role="navigation" aria-label="文章">
+		<h2 class="screen-reader-text">文章导航</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="https://yinwang1.wordpress.com/author/yinwang0/page/2/" class="post-nav-older fleft">较旧的文章</a></div></div>
+	</nav>		
+	</div> <!-- /content -->
+</main> <!-- /wrapper -->
+
+
+	<div class="footer bg-graphite" id="footer">
+		<div class="section-inner row clear" role="complementary">
+
+			 <!-- /sidebar-2 -->
+
+			 <!-- /sidebar-3 -->
+
+			 <!-- /sidebar-4 -->
+
+		</div> <!-- /section-inner -->
+	</div> <!-- /footer -->
+
+
+	<div class="credits section bg-dark small-padding">
+		<div class="credits-inner section-inner clear">
+
+			<p class="credits-left fleft">
+				<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">通过访问 WordPress.com 创建免费网站或博客.</a>
+				
+							</p>
+
+			<p class="credits-right fright">
+				<a class="tothetop" title="回顶部" href="#">向上 &uarr;</a>
+			</p>
+		</div> <!-- /credits-inner -->
+	</div> <!-- /credits -->
+
+		<script type="text/javascript">
+		//<![CDATA[
+		var infiniteScroll = JSON.parse( decodeURIComponent( '%7B%22settings%22%3A%7B%22id%22%3A%22posts%22%2C%22ajaxurl%22%3A%22https%3A%5C%2F%5C%2Fyinwang1.wordpress.com%5C%2F%3Finfinity%3Dscrolling%22%2C%22type%22%3A%22scroll%22%2C%22wrapper%22%3Afalse%2C%22wrapper_class%22%3A%22infinite-wrap%22%2C%22footer%22%3A%22content%22%2C%22click_handle%22%3A%221%22%2C%22text%22%3A%22%5Cu8f83%5Cu65e7%5Cu7684%5Cu6587%5Cu7ae0%22%2C%22totop%22%3A%22%5Cu6eda%5Cu56de%5Cu81f3%5Cu9876%5Cu90e8%22%2C%22currentday%22%3A%2217.09.20%22%2C%22order%22%3A%22DESC%22%2C%22scripts%22%3A%5B%5D%2C%22styles%22%3A%5B%5D%2C%22google_analytics%22%3Afalse%2C%22offset%22%3A1%2C%22history%22%3A%7B%22host%22%3A%22yinwang1.wordpress.com%22%2C%22path%22%3A%22%5C%2Fauthor%5C%2Fyinwang0%5C%2Fpage%5C%2F%25d%5C%2F%22%2C%22use_trailing_slashes%22%3Atrue%2C%22parameters%22%3A%22%22%7D%2C%22query_args%22%3A%7B%22author_name%22%3A%22yinwang0%22%2C%22error%22%3A%22%22%2C%22m%22%3A%22%22%2C%22p%22%3A0%2C%22post_parent%22%3A%22%22%2C%22subpost%22%3A%22%22%2C%22subpost_id%22%3A%22%22%2C%22attachment%22%3A%22%22%2C%22attachment_id%22%3A0%2C%22name%22%3A%22%22%2C%22pagename%22%3A%22%22%2C%22page_id%22%3A0%2C%22second%22%3A%22%22%2C%22minute%22%3A%22%22%2C%22hour%22%3A%22%22%2C%22day%22%3A0%2C%22monthnum%22%3A0%2C%22year%22%3A0%2C%22w%22%3A0%2C%22category_name%22%3A%22%22%2C%22tag%22%3A%22%22%2C%22cat%22%3A%22%22%2C%22tag_id%22%3A%22%22%2C%22author%22%3A7004495%2C%22feed%22%3A%22%22%2C%22tb%22%3A%22%22%2C%22paged%22%3A0%2C%22meta_key%22%3A%22%22%2C%22meta_value%22%3A%22%22%2C%22preview%22%3A%22%22%2C%22s%22%3A%22%22%2C%22sentence%22%3A%22%22%2C%22title%22%3A%22%22%2C%22fields%22%3A%22%22%2C%22menu_order%22%3A%22%22%2C%22embed%22%3A%22%22%2C%22category__in%22%3A%5B%5D%2C%22category__not_in%22%3A%5B%5D%2C%22category__and%22%3A%5B%5D%2C%22post__in%22%3A%5B%5D%2C%22post__not_in%22%3A%5B%5D%2C%22post_name__in%22%3A%5B%5D%2C%22tag__in%22%3A%5B%5D%2C%22tag__not_in%22%3A%5B%5D%2C%22tag__and%22%3A%5B%5D%2C%22tag_slug__in%22%3A%5B%5D%2C%22tag_slug__and%22%3A%5B%5D%2C%22post_parent__in%22%3A%5B%5D%2C%22post_parent__not_in%22%3A%5B%5D%2C%22author__in%22%3A%5B%5D%2C%22author__not_in%22%3A%5B%5D%2C%22lazy_load_term_meta%22%3Afalse%2C%22posts_per_page%22%3A5%2C%22ignore_sticky_posts%22%3Afalse%2C%22suppress_filters%22%3Afalse%2C%22cache_results%22%3Afalse%2C%22update_post_term_cache%22%3Atrue%2C%22update_post_meta_cache%22%3Atrue%2C%22post_type%22%3A%22%22%2C%22nopaging%22%3Afalse%2C%22comments_per_page%22%3A%2250%22%2C%22no_found_rows%22%3Afalse%2C%22order%22%3A%22DESC%22%7D%2C%22query_before%22%3A%222020-10-09%2018%3A59%3A17%22%2C%22last_post_date%22%3A%222020-09-17%2012%3A24%3A02%22%2C%22body_class%22%3A%22infinite-scroll%20neverending%22%2C%22stats%22%3A%22blog%3D23586156%26v%3Dwpcom%26tz%3D8%26user_id%3D0%26subd%3Dyinwang1%26x_pagetype%3Dinfinite%22%7D%7D' ) );
+		//]]>
+		</script>
+		<!--  -->
+<script src='//0.gravatar.com/js/gprofiles.js?ver=202041y' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script type='text/javascript' src='https://s1.wp.com/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1380573781h'></script>
+
+	<script>
+		//initialize and attach hovercards to all gravatars
+		jQuery( document ).ready( function( $ ) {
+
+			if (typeof Gravatar === "undefined"){
+				return;
+			}
+
+			if ( typeof Gravatar.init !== "function" ) {
+				return;
+			}			
+
+			Gravatar.profile_cb = function( hash, id ) {
+				WPGroHo.syncProfileData( hash, id );
+			};
+			Gravatar.my_hash = WPGroHo.my_hash;
+			Gravatar.init( 'body', '#wp-admin-bar-my-account' );
+		});
+	</script>
+
+		<div style="display:none">
+	</div>
+		<div id="infinite-footer">
+			<div class="container">
+				<div class="blog-info">
+					<a id="infinity-blog-title" href="https://yinwang1.wordpress.com/" rel="home">
+						艮曰					</a>
+				</div>
+				<div class="blog-credits">
+					<a href="https://wordpress.com/?ref=footer_website" rel="nofollow">通过访问 WordPress.com 创建免费网站或博客.</a> 				</div>
+			</div>
+		</div><!-- #infinite-footer -->
+				<!-- CCPA [start] -->
+		<script type="text/javascript">
+			( function () {
+
+				var setupPrivacy = function() {
+
+					document.addEventListener( 'DOMContentLoaded', function() {
+
+						// Minimal Mozilla Cookie library
+						// https://developer.mozilla.org/en-US/docs/Web/API/Document/cookie/Simple_document.cookie_framework
+						var cookieLib = window.cookieLib = {getItem:function(e){return e&&decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*"+encodeURIComponent(e).replace(/[\-\.\+\*]/g,"\\$&")+"\\s*\\=\\s*([^;]*).*$)|^.*$"),"$1"))||null},setItem:function(e,o,n,t,r,i){if(!e||/^(?:expires|max\-age|path|domain|secure)$/i.test(e))return!1;var c="";if(n)switch(n.constructor){case Number:c=n===1/0?"; expires=Fri, 31 Dec 9999 23:59:59 GMT":"; max-age="+n;break;case String:c="; expires="+n;break;case Date:c="; expires="+n.toUTCString()}return"rootDomain"!==r&&".rootDomain"!==r||(r=(".rootDomain"===r?".":"")+document.location.hostname.split(".").slice(-2).join(".")),document.cookie=encodeURIComponent(e)+"="+encodeURIComponent(o)+c+(r?"; domain="+r:"")+(t?"; path="+t:"")+(i?"; secure":""),!0}};
+
+						var setDefaultOptInCookie = function() {
+							var value = '1YNN';
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'usprivacy', value, 365 * 24 * 60 * 60, '/', domain );
+						};
+
+						var setCcpaAppliesCookie = function( value ) {
+							var domain = '.wordpress.com' === location.hostname.slice( -14 ) ? '.rootDomain' : location.hostname;
+							cookieLib.setItem( 'ccpa_applies', value, 24 * 60 * 60, '/', domain );
+						}
+
+						var maybeCallDoNotSellCallback = function() {
+							if ( 'function' === typeof window.doNotSellCallback ) {
+								return window.doNotSellCallback();
+							}
+
+							return false;
+						}
+
+						var usprivacyCookie = cookieLib.getItem( 'usprivacy' );
+
+						if ( null !== usprivacyCookie ) {
+							maybeCallDoNotSellCallback();
+							return;
+						}
+
+						var ccpaCookie = cookieLib.getItem( 'ccpa_applies' );
+
+						if ( null === ccpaCookie ) {
+
+							var request = new XMLHttpRequest();
+							request.open( 'GET', 'https://public-api.wordpress.com/geo/', true );
+
+							request.onreadystatechange = function () {
+								if ( 4 === this.readyState ) {
+									if ( 200 === this.status ) {
+
+										var data = JSON.parse( this.response );
+										var ccpa_applies = data['region'] && data['region'].toLowerCase() === 'california';
+
+										setCcpaAppliesCookie( ccpa_applies );
+
+										if ( ccpa_applies ) {
+											if ( maybeCallDoNotSellCallback() ) {
+												setDefaultOptInCookie();
+											}
+										}
+									} else {
+										setCcpaAppliesCookie( true );
+										if ( maybeCallDoNotSellCallback() ) {
+											setDefaultOptInCookie();
+										}
+									}
+								}
+							};
+
+							request.send();
+						} else {
+							if ( ccpaCookie === 'true' ) {
+								if ( maybeCallDoNotSellCallback() ) {
+									setDefaultOptInCookie();
+								}
+							}
+						}
+					} );
+				};
+
+				if ( window.defQueue && defQueue.isLOHP && defQueue.isLOHP === 2020 ) {
+					defQueue.items.push( setupPrivacy );
+				} else {
+					setupPrivacy();
+				}
+
+			} )();
+		</script>
+
+		<!-- CCPA [end] -->
+					<script type="text/javascript">
+			( function( $ ) {
+				$( document.body ).on( 'post-load', function () {
+					if ( typeof __ATA.insertInlineAds === 'function' ) {
+						__ATA.insertInlineAds();
+					}
+				} );
+			} )( jQuery );
+			</script>
+	<div id="carousel-reblog-box">
+		<form action="#" name="carousel-reblog">
+			<textarea id="carousel-reblog-content" name="carousel-reblog-content" placeholder="在此处添加您的想法...（可选）"></textarea>
+			<label for="carousel-reblog-to-blog-id" id="carousel-reblog-lblogid">发布到</label>
+			<select name="carousel-reblog-to-blog-id" id="carousel-reblog-to-blog-id">
+						</select>
+
+			<div class="submit">
+				<span class="canceltext"><a href="#" class="cancel">取消</a></span>
+				<input type="submit" name="carousel-reblog-submit" class="button" id="carousel-reblog-submit" value="重新发布博客文章" />
+				<input type="hidden" id="carousel-reblog-blog-id" value="23586156" />
+				<input type="hidden" id="carousel-reblog-blog-url" value="https://yinwang1.wordpress.com" />
+				<input type="hidden" id="carousel-reblog-blog-title" value="艮曰" />
+				<input type="hidden" id="carousel-reblog-post-url" value="" />
+				<input type="hidden" id="carousel-reblog-post-title" value="" />
+			</div>
+
+			<input type="hidden" id="_wpnonce" name="_wpnonce" value="f85a5fd426" /><input type="hidden" name="_wp_http_referer" value="/author/yinwang0/" />		</form>
+
+		<div class="arrow"></div>
+	</div>
+<div class="widget widget_eu_cookie_law_widget">
+<div
+	class="hide-on-button ads-active"
+	data-hide-timeout="30"
+	data-consent-expiration="180"
+	id="eu-cookie-law"
+>
+	<form method="post">
+		<input type="submit" value="关闭和接受" class="accept" />
+
+		隐私和 Cookie：此站点使用 Cookie。继续使用此网站，即表示您同意其使用 Cookie。<br />
+要了解包括如何管控 Cookie 在内的更多信息，请参阅此处：
+				<a href="https://automattic.com/cookies" rel="nofollow">
+			Cookie 政策		</a>
+ </form>
+</div>
+</div><link rel='stylesheet' id='all-css-0-2' href='https://s1.wp.com/_static/??/wp-content/mu-plugins/carousel/jetpack-carousel.css,/wp-content/mu-plugins/tiled-gallery/tiled-gallery.css?m=1592560282j&cssminify=yes' type='text/css' media='all' />
+<script id='wpcom-actionbar-bar-js-extra'>
+var actionbardata = {"siteID":"23586156","siteName":"\u826e\u66f0","siteURL":"http:\/\/yinwang1.wordpress.com","icon":"<img alt='' src='https:\/\/s2.wp.com\/i\/logo\/wpcom-gray-white.png' class='avatar avatar-50' height='50' width='50' \/>","canManageOptions":"","canCustomizeSite":"","isFollowing":"","themeSlug":"pub\/baskerville-2","signupURL":"https:\/\/wordpress.com\/start\/","loginURL":"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fyinwang1.wordpress.com%2F2020%2F10%2F06%2F%E7%8E%B0%E4%BB%A3%E4%B8%AD%E6%96%87%E7%9A%84%E5%BE%88%E5%A4%9A%E5%8D%95%E8%AF%8D%E6%9D%A5%E6%BA%90%E4%BA%8E%E6%97%A5%E8%AF%AD%EF%BC%9F%2F&signup_flow=account","themeURL":"https:\/\/wordpress.com\/theme\/baskerville-2\/","xhrURL":"https:\/\/yinwang1.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"fa2c823549","isSingular":"","isFolded":"","isLoggedIn":"","isMobile":"","subscribeNonce":"<input type=\"hidden\" id=\"_wpnonce\" name=\"_wpnonce\" value=\"11159aabbb\" \/>","referer":"https:\/\/yinwang1.wordpress.com\/author\/yinwang0\/","canFollow":"1","feedID":"108361799","statusMessage":"","customizeLink":"https:\/\/yinwang1.wordpress.com\/wp-admin\/customize.php?url=https%3A%2F%2Fyinwang1.wordpress.com%2Fauthor%2Fyinwang0%2F","i18n":{"view":"\u67e5\u770b\u7f51\u7ad9","follow":"\u5173\u6ce8","following":"\u5173\u6ce8\u4e2d","edit":"\u7f16\u8f91","login":"\u767b\u5f55","signup":"\u6ce8\u518c","customize":"\u81ea\u5b9a\u4e49","report":"\u4e3e\u62a5\u6b64\u5185\u5bb9","themeInfo":"\u83b7\u53d6\u4e3b\u9898: Baskerville 2","shortlink":"\u590d\u5236\u77ed\u94fe\u63a5","copied":"\u5df2\u590d\u5236","followedText":"New posts from this site will now appear in your <a href=\"https:\/\/wordpress.com\/read\">Reader<\/a>","foldBar":"\u6536\u8d77\u6b64\u680f","unfoldBar":"\u5c55\u5f00\u6b64\u680f","editSubs":"\u7ba1\u7406\u8ba2\u9605","viewReader":"\u5728\u9605\u8bfb\u5668\u4e2d\u67e5\u770b\u201c\u7ad9\u70b9\u201d","viewReadPost":"\u5728\u9605\u8bfb\u5668\u4e2d\u67e5\u770b\u6587\u7ae0","subscribe":"\u4e3a\u6211\u6ce8\u518c","enterEmail":"\u8f93\u5165\u60a8\u7684\u7535\u5b50\u90ae\u4ef6\u5730\u5740","followers":"\u52a0\u5165\u53e6\u5916 45 \u4f4d\u7c89\u4e1d","alreadyUser":"\u5df2\u6709 WordPress.com \u5e10\u6237\uff1f<a href=\"https:\/\/wordpress.com\/log-in?redirect_to=https%3A%2F%2Fyinwang1.wordpress.com%2F2020%2F10%2F06%2F%E7%8E%B0%E4%BB%A3%E4%B8%AD%E6%96%87%E7%9A%84%E5%BE%88%E5%A4%9A%E5%8D%95%E8%AF%8D%E6%9D%A5%E6%BA%90%E4%BA%8E%E6%97%A5%E8%AF%AD%EF%BC%9F%2F&signup_flow=account\">\u7acb\u5373\u767b\u5f55\u3002<\/a>","stats":"\u7edf\u8ba1"}};
+</script>
+<script id='jetpack-carousel-js-extra'>
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"zh","ajaxurl":"https:\/\/yinwang1.wordpress.com\/wp-admin\/admin-ajax.php","nonce":"def429e961","display_exif":"1","display_comments":"1","display_geo":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"\u6761\u8bc4\u8bba","post_comment":"\u53d1\u8868\u8bc4\u8bba","write_comment":"\u64b0\u5199\u8bc4\u8bba...","loading_comments":"\u6b63\u5728\u52a0\u8f7d\u8bc4\u8bba...","download_original":"\u67e5\u770b\u5168\u5c3a\u5bf8 <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"\u8bf7\u786e\u4fdd\u4e0e\u60a8\u7684\u8bc4\u8bba\u4e00\u8d77\u63d0\u4ea4\u90e8\u5206\u6587\u672c\u3002","no_comment_email":"\u8bf7\u63d0\u4f9b\u7528\u4e8e\u53d1\u8868\u8bc4\u8bba\u7684\u7535\u5b50\u90ae\u4ef6\u5730\u5740\u3002","no_comment_author":"\u8bf7\u63d0\u4f9b\u60a8\u7528\u4e8e\u53d1\u8868\u8bc4\u8bba\u7684\u59d3\u540d\u3002","comment_post_error":"\u62b1\u6b49\uff0c\u53d1\u8868\u60a8\u7684\u8bc4\u8bba\u65f6\u51fa\u9519\u3002\u8bf7\u7a0d\u540e\u91cd\u8bd5\u3002","comment_approved":"\u60a8\u7684\u8bc4\u8bba\u5df2\u83b7\u5f97\u6279\u51c6\u3002","comment_unapproved":"\u6b63\u5728\u5ba1\u6838\u60a8\u7684\u8bc4\u8bba\u3002","camera":"\u7167\u76f8\u673a","aperture":"\u5149\u5708","shutter_speed":"\u5feb\u95e8\u901f\u5ea6","focal_length":"\u7126\u8ddd","copyright":"\u7248\u6743","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/yinwang1.wordpress.com\/wp-login.php?redirect_to=https%3A%2F%2Fyinwang1.wordpress.com%2F2020%2F09%2F29%2F%25e5%25af%25b9%25e6%25af%2594%25e4%25b8%25ad%25e5%259b%25bd%25e5%2592%258c%25e6%2597%25a5%25e6%259c%25ac%25e7%259a%2584%25e5%258e%2586%25e5%258f%25b2%2F","blog_id":"23586156","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"local_comments_commenting_as":"<fieldset><label for=\"email\">\u7535\u5b50\u90ae\u7bb1\uff08\u5fc5\u586b\uff09<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">\u540d\u79f0\uff08\u5fc5\u586b\uff09<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">\u7f51\u5740<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>","reblog":"\u8f6c\u8f7d","reblogged":"\u5df2\u8f6c\u8f7d","reblog_add_thoughts":"\u5728\u6b64\u5904\u6dfb\u52a0\u60a8\u7684\u60f3\u6cd5...\uff08\u53ef\u9009\uff09","reblogging":"Reblogging...","post_reblog":"Post Reblog","stats_query_args":"blog=23586156&v=wpcom&tz=8&user_id=0&subd=yinwang1","is_public":"1","reblog_enabled":""};
+</script>
+<script type='text/javascript' src='https://s2.wp.com/_static/??-eJyVUdtOwzAM/SFCxBigPSC+xU3c4ta5KHba7e9JJTaNMVXwZvtcfLNLNi5Fxah2FOtxJof5+DjKg72CQjWZ60BRLMWeIunpEtxy9RMDis21sx3IhGUmZjS71V8myoYpTqZProrp6VerLXnPeBQmj+Wsoui4+sZvKAUYUDiBR/8YKN7jBJAUy+ka/kvjgVMHvHGVhfyAKhZrQ9NEaBgWqxgyg+JNfcMHfJvMdFDWSRVLi0yasRRaF7jU/umgBdwkWyKnlOIqukQbbAclVUG2I2puzuZcuHdxWfrUjej01vDsNrfVkgWR9X7jd54LytbASozeDNA+VE4/s6b6CO9PL4fD2363f30evwAN0hUP'></script>
+<script type="text/javascript">
+// <![CDATA[
+(function() {
+try{
+  if ( window.external &&'msIsSiteMode' in window.external) {
+    if (window.external.msIsSiteMode()) {
+      var jl = document.createElement('script');
+      jl.type='text/javascript';
+      jl.async=true;
+      jl.src='/wp-content/plugins/ie-sitemode/custom-jumplist.php';
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(jl, s);
+    }
+  }
+}catch(e){}
+})();
+// ]]>
+</script><script type="text/javascript">
+			(function() {
+				var extend = function(out) {
+					out = out || {};
+
+					for (var i = 1; i < arguments.length; i++) {
+						if (!arguments[i])
+						continue;
+
+						for (var key in arguments[i]) {
+						if (arguments[i].hasOwnProperty(key))
+							out[key] = arguments[i][key];
+						}
+					}
+
+					return out;
+				};
+				extend( window.infiniteScroll.settings.scripts, ["jquery-core","jquery","postmessage","mobile-useragent-info","grofiles-cards","wpgroho","devicepx","the-neverending-homepage","baskerville-2-skip-link-focus-fix","baskerville-2-flexslider","imagesloaded","masonry","baskerville-2-global","eu-cookie-law-script","wpcom-masterbar-js","wpcom-masterbar-tracks-js","wpcom-actionbar-bar","jetpack-carousel","swfobject","videopress","tiled-gallery"] );
+				extend( window.infiniteScroll.settings.styles, ["wpcom-smileys","wordads-global","the-neverending-homepage","wp-block-library","jetpack-layout-grid","jetpack-ratings","coblocks-frontend","wpcom-core-compat-playlist-styles","wpcom-bbpress2-staff-css","baskerville-2-style","fontawesome","baskerville-2-wpcom","eu-cookie-law-style","geo-location-flair","reblogging","a8c-global-print","wpcom-actionbar-bar","h4-global","global-styles","baskerville-2-fonts","jetpack-global-styles-frontend-style","jetpack-carousel","tiled-gallery"] );
+			})();
+		</script><script src="//stats.wp.com/w.js?61" type="text/javascript" async defer></script>
+<script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'23586156','blog_tz':'8','user_lang':'zh-cn','blog_lang':'zh-cn','user_id':'0'}]);
+_stq.push(['view', {'blog':'23586156','v':'wpcom','tz':'8','user_id':'0','subd':'yinwang1'}]);
+_stq.push(['extra', {'crypt':'UE5XaGUuOTlwaD85flAmcm1mcmZsaDhkV11YdTdvUG14Q2VDQTR4LlUsLi82dU1mai9BMmcxPytqWkpxbS9HNTZzdFBReGZKSHpieiw/bUN0Nz9JMTNGZ2x0YkM0ZHJxJjFMS3Jzdj1faURdaXhdfmJPZVl0c2o3ZWh+YzV+TFBwLmFJOH5iXSVrNzZrW2NTcjNiMW5fLk1JKyVIfDRZSEZOWyx1V1ArMF0sSTdvMXFuVnFXeD1vTjZ8Zn4rW0ROZStDTFU9SStHeXBIb1FhajM1NndLXz9PdTV3WGJldC5HJXlKTEJ4R3NMUVowNlc1OH5qMW44Zz8tRWNxdWpyRHgtMWgtUVdvTyxLdFh2OHpILzQ='}]);
+_stq.push([ 'clickTrackerInit', '23586156', '0' ]);
+	</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:0px;width:0px;overflow:hidden" alt="" /></noscript>
+<script>
+if ( 'object' === typeof wpcom_mobile_user_agent_info ) {
+
+	wpcom_mobile_user_agent_info.init();
+	var mobileStatsQueryString = "";
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedPlatformName )
+		mobileStatsQueryString += "&x_" + 'mobile_platforms' + '=' + wpcom_mobile_user_agent_info.matchedPlatformName;
+	
+	if( false !== wpcom_mobile_user_agent_info.matchedUserAgentName )
+		mobileStatsQueryString += "&x_" + 'mobile_devices' + '=' + wpcom_mobile_user_agent_info.matchedUserAgentName;
+	
+	if( wpcom_mobile_user_agent_info.isIPad() )
+		mobileStatsQueryString += "&x_" + 'ipad_views' + '=' + 'views';
+
+	if( "" != mobileStatsQueryString ) {
+		new Image().src = document.location.protocol + '//pixel.wp.com/g.gif?v=wpcom-no-pv' + mobileStatsQueryString + '&baba=' + Math.random();
+	}
+	
+}
+</script>
+</body>
+</html>
+

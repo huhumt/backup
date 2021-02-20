@@ -1,6 +1,4 @@
 喜欢我的文章的人，可以自愿付费。你可以使用以下方式付款。为了防止有人滥用这些付款方式，我给它们设置了固定的金额。
 支付宝（32 元）：
 <img src="http://www.yinwang.org/images/alipay-32.jpg" width="200" />
-支付宝（1024 元）：
-<img src="http://www.yinwang.org/images/alipay-1024.jpg" width="200" />
 PayPal：请点击[<a href="http://paypal.me/yinwang0/5">付款链接</a>]
